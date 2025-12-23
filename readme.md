@@ -1,4 +1,11 @@
 
+### install git n9ol command whda whda machi kulchi fda9a
+installi git hiya lyla: `winget install --id Git.Git`  
+ktb username ta3k hna: `git config --global user.name "username"`  
+ktb email tagk hna (lidrti bih github acount): `git config --global user.email "email@gmail.com"`  
+
+---
+
 ##### dir had command bach dakhl project 3andk
 
 ```bash
